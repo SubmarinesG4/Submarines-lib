@@ -8,5 +8,8 @@
 		"test": "node test/test.js"
 	},
 	"author": "Submarines",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"translate-lib": "github:SubmarinesG4/Submarines-lib"
+	}
 }
