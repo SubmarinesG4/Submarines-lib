@@ -1,0 +1,12 @@
+{
+	"name": "translate-lib",
+	"version": "1.0.0",
+	"description": "Package containing the library for fetching translations",
+	"main": "lib/index.js",
+	"type": "module",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"author": "Submarines",
+	"license": "ISC"
+}
